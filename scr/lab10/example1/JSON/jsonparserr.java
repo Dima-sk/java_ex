@@ -6,7 +6,7 @@ import org.json.simple.parser.JSONParser;
 
 import java.io.FileReader;
 
-public class JSONParserr {
+public class jsonparserr {
     public static void main(String[] args) {
         try{
             JSONParser parser = new JSONParser();

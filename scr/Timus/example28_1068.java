@@ -1,4 +1,4 @@
-package scr.lab2;
+package scr.Timus;
 import java.util.Scanner;
 public class example28_1068 {
         public static void main(String[] args) {

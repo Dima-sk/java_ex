@@ -1,4 +1,4 @@
-package scr.lab2;
+package scr.Timus;
 
 import java.util.Scanner;
 

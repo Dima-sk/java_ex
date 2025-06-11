@@ -5,7 +5,7 @@ import org.json.simple.JSONObject;
 
 import java.io.FileWriter;
 
-public class JSONCreater {
+public class jsoncreater {
     public static void main(String[] args) {
         JSONObject library = new JSONObject();
         JSONArray books = new JSONArray();
