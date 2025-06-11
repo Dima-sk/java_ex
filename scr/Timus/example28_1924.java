@@ -6,6 +6,7 @@ public class example28_1924 {
             Scanner scanner = new Scanner(System.in);
             int n = scanner.nextInt();
 
+
             if (n == 1 || n == 2) {
                 System.out.println("grimy");
             } else {
